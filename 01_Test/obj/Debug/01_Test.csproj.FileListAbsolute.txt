@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_virtual\01_Test\bin\Debug\01_Test.exe.config
+C:\Users\user\Desktop\C#_virtual\01_Test\bin\Debug\01_Test.exe
+C:\Users\user\Desktop\C#_virtual\01_Test\bin\Debug\01_Test.pdb
+C:\Users\user\Desktop\C#_virtual\01_Test\obj\Debug\01_Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\01_Test\obj\Debug\01_Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\01_Test\obj\Debug\01_Test.exe
+C:\Users\user\Desktop\C#_virtual\01_Test\obj\Debug\01_Test.pdb
