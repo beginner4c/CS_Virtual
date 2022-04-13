@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_virtual\02_SineTest\bin\Debug\02_SineTest.exe.config
+C:\Users\user\Desktop\C#_virtual\02_SineTest\bin\Debug\02_SineTest.exe
+C:\Users\user\Desktop\C#_virtual\02_SineTest\bin\Debug\02_SineTest.pdb
+C:\Users\user\Desktop\C#_virtual\02_SineTest\obj\Debug\02_SineTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\02_SineTest\obj\Debug\02_SineTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\02_SineTest\obj\Debug\02_SineTest.exe
+C:\Users\user\Desktop\C#_virtual\02_SineTest\obj\Debug\02_SineTest.pdb
