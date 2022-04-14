@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\03_Win_Test\obj\Debug\03_Win_Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\03_Win_Test\obj\Debug\_03_Win_Test.SineForm.resources
+C:\Users\user\Desktop\C#_virtual\03_Win_Test\obj\Debug\_03_Win_Test.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\03_Win_Test\obj\Debug\03_Win_Test.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\03_Win_Test\obj\Debug\03_Win_Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\03_Win_Test\bin\Debug\03_Win_Test.exe.config
+C:\Users\user\Desktop\C#_virtual\03_Win_Test\bin\Debug\03_Win_Test.exe
+C:\Users\user\Desktop\C#_virtual\03_Win_Test\bin\Debug\03_Win_Test.pdb
+C:\Users\user\Desktop\C#_virtual\03_Win_Test\obj\Debug\03_Win_Test.exe
+C:\Users\user\Desktop\C#_virtual\03_Win_Test\obj\Debug\03_Win_Test.pdb
