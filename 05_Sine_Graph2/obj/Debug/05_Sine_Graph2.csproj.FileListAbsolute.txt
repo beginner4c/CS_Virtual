@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\05_Sine_Graph2\bin\Debug\05_Sine_Graph2.exe.config
+C:\Users\user\Desktop\C#_virtual\05_Sine_Graph2\bin\Debug\05_Sine_Graph2.exe
+C:\Users\user\Desktop\C#_virtual\05_Sine_Graph2\bin\Debug\05_Sine_Graph2.pdb
+C:\Users\user\Desktop\C#_virtual\05_Sine_Graph2\obj\Debug\05_Sine_Graph2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\05_Sine_Graph2\obj\Debug\_05_Sine_Graph2.Form1.resources
+C:\Users\user\Desktop\C#_virtual\05_Sine_Graph2\obj\Debug\_05_Sine_Graph2.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\05_Sine_Graph2\obj\Debug\05_Sine_Graph2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\05_Sine_Graph2\obj\Debug\05_Sine_Graph2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\05_Sine_Graph2\obj\Debug\05_Sine_Graph2.exe
+C:\Users\user\Desktop\C#_virtual\05_Sine_Graph2\obj\Debug\05_Sine_Graph2.pdb
