@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_virtual\07_Circle\bin\Debug\07_Circle.exe.config
+C:\Users\user\Desktop\C#_virtual\07_Circle\bin\Debug\07_Circle.exe
+C:\Users\user\Desktop\C#_virtual\07_Circle\bin\Debug\07_Circle.pdb
+C:\Users\user\Desktop\C#_virtual\07_Circle\obj\Debug\07_Circle.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\07_Circle\obj\Debug\07_Circle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\07_Circle\obj\Debug\07_Circle.exe
+C:\Users\user\Desktop\C#_virtual\07_Circle\obj\Debug\07_Circle.pdb
