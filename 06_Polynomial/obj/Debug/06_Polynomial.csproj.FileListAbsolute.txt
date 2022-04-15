@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\06_Polynomial\bin\Debug\06_Polynomial.exe.config
+C:\Users\user\Desktop\C#_virtual\06_Polynomial\bin\Debug\06_Polynomial.exe
+C:\Users\user\Desktop\C#_virtual\06_Polynomial\bin\Debug\06_Polynomial.pdb
+C:\Users\user\Desktop\C#_virtual\06_Polynomial\obj\Debug\06_Polynomial.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\06_Polynomial\obj\Debug\_06_Polynomial.PolyForm.resources
+C:\Users\user\Desktop\C#_virtual\06_Polynomial\obj\Debug\_06_Polynomial.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\06_Polynomial\obj\Debug\06_Polynomial.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\06_Polynomial\obj\Debug\06_Polynomial.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\06_Polynomial\obj\Debug\06_Polynomial.exe
+C:\Users\user\Desktop\C#_virtual\06_Polynomial\obj\Debug\06_Polynomial.pdb
