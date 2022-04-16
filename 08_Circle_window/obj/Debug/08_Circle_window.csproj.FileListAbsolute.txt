@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\08_Circle_window\bin\Debug\08_Circle_window.exe.config
+C:\Users\user\Desktop\C#_virtual\08_Circle_window\bin\Debug\08_Circle_window.exe
+C:\Users\user\Desktop\C#_virtual\08_Circle_window\bin\Debug\08_Circle_window.pdb
+C:\Users\user\Desktop\C#_virtual\08_Circle_window\obj\Debug\08_Circle_window.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\08_Circle_window\obj\Debug\_08_Circle_window.CircleForm.resources
+C:\Users\user\Desktop\C#_virtual\08_Circle_window\obj\Debug\_08_Circle_window.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\08_Circle_window\obj\Debug\08_Circle_window.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\08_Circle_window\obj\Debug\08_Circle_window.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\08_Circle_window\obj\Debug\08_Circle_window.exe
+C:\Users\user\Desktop\C#_virtual\08_Circle_window\obj\Debug\08_Circle_window.pdb
