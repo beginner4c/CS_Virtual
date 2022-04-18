@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_virtual\11_DelegateTest\bin\Debug\11_DelegateTest.exe.config
+C:\Users\user\Desktop\C#_virtual\11_DelegateTest\bin\Debug\11_DelegateTest.exe
+C:\Users\user\Desktop\C#_virtual\11_DelegateTest\bin\Debug\11_DelegateTest.pdb
+C:\Users\user\Desktop\C#_virtual\11_DelegateTest\obj\Debug\11_DelegateTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\11_DelegateTest\obj\Debug\11_DelegateTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\11_DelegateTest\obj\Debug\11_DelegateTest.exe
+C:\Users\user\Desktop\C#_virtual\11_DelegateTest\obj\Debug\11_DelegateTest.pdb
