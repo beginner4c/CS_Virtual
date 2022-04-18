@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\10_Star\bin\Debug\10_Star.exe.config
+C:\Users\user\Desktop\C#_virtual\10_Star\bin\Debug\10_Star.exe
+C:\Users\user\Desktop\C#_virtual\10_Star\bin\Debug\10_Star.pdb
+C:\Users\user\Desktop\C#_virtual\10_Star\obj\Debug\10_Star.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\10_Star\obj\Debug\_10_Star.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\10_Star\obj\Debug\_10_Star.StarForm.resources
+C:\Users\user\Desktop\C#_virtual\10_Star\obj\Debug\10_Star.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\10_Star\obj\Debug\10_Star.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\10_Star\obj\Debug\10_Star.exe
+C:\Users\user\Desktop\C#_virtual\10_Star\obj\Debug\10_Star.pdb
