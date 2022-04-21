@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\12_XDrawer\bin\Debug\12_XDrawer.exe.config
+C:\Users\user\Desktop\C#_virtual\12_XDrawer\bin\Debug\12_XDrawer.exe
+C:\Users\user\Desktop\C#_virtual\12_XDrawer\bin\Debug\12_XDrawer.pdb
+C:\Users\user\Desktop\C#_virtual\12_XDrawer\obj\Debug\12_XDrawer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\12_XDrawer\obj\Debug\_12_XDrawer.XDrawer.resources
+C:\Users\user\Desktop\C#_virtual\12_XDrawer\obj\Debug\_12_XDrawer.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\12_XDrawer\obj\Debug\12_XDrawer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\12_XDrawer\obj\Debug\12_XDrawer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\12_XDrawer\obj\Debug\12_XDrawer.exe
+C:\Users\user\Desktop\C#_virtual\12_XDrawer\obj\Debug\12_XDrawer.pdb
