@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\13_Pen\bin\Debug\13_Pen.exe.config
+C:\Users\user\Desktop\C#_virtual\13_Pen\bin\Debug\13_Pen.exe
+C:\Users\user\Desktop\C#_virtual\13_Pen\bin\Debug\13_Pen.pdb
+C:\Users\user\Desktop\C#_virtual\13_Pen\obj\Debug\13_Pen.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\13_Pen\obj\Debug\_13_Pen.PenForm.resources
+C:\Users\user\Desktop\C#_virtual\13_Pen\obj\Debug\_13_Pen.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\13_Pen\obj\Debug\13_Pen.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\13_Pen\obj\Debug\13_Pen.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\13_Pen\obj\Debug\13_Pen.exe
+C:\Users\user\Desktop\C#_virtual\13_Pen\obj\Debug\13_Pen.pdb
