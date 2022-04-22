@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\14_Brush\bin\Debug\14_Brush.exe.config
+C:\Users\user\Desktop\C#_virtual\14_Brush\bin\Debug\14_Brush.exe
+C:\Users\user\Desktop\C#_virtual\14_Brush\bin\Debug\14_Brush.pdb
+C:\Users\user\Desktop\C#_virtual\14_Brush\obj\Debug\14_Brush.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\14_Brush\obj\Debug\_14_Brush.BrushForm.resources
+C:\Users\user\Desktop\C#_virtual\14_Brush\obj\Debug\_14_Brush.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\14_Brush\obj\Debug\14_Brush.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\14_Brush\obj\Debug\14_Brush.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\14_Brush\obj\Debug\14_Brush.exe
+C:\Users\user\Desktop\C#_virtual\14_Brush\obj\Debug\14_Brush.pdb
