@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\15_Rectangle\bin\Debug\15_Rectangle.exe.config
+C:\Users\user\Desktop\C#_virtual\15_Rectangle\bin\Debug\15_Rectangle.exe
+C:\Users\user\Desktop\C#_virtual\15_Rectangle\bin\Debug\15_Rectangle.pdb
+C:\Users\user\Desktop\C#_virtual\15_Rectangle\obj\Debug\15_Rectangle.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\15_Rectangle\obj\Debug\_15_Rectangle.RectForm.resources
+C:\Users\user\Desktop\C#_virtual\15_Rectangle\obj\Debug\_15_Rectangle.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\15_Rectangle\obj\Debug\15_Rectangle.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\15_Rectangle\obj\Debug\15_Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\15_Rectangle\obj\Debug\15_Rectangle.exe
+C:\Users\user\Desktop\C#_virtual\15_Rectangle\obj\Debug\15_Rectangle.pdb
