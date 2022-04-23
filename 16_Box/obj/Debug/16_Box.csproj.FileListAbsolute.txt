@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\16_Box\bin\Debug\16_Box.exe.config
+C:\Users\user\Desktop\C#_virtual\16_Box\bin\Debug\16_Box.exe
+C:\Users\user\Desktop\C#_virtual\16_Box\bin\Debug\16_Box.pdb
+C:\Users\user\Desktop\C#_virtual\16_Box\obj\Debug\16_Box.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\16_Box\obj\Debug\_16_Box.BoxForm.resources
+C:\Users\user\Desktop\C#_virtual\16_Box\obj\Debug\_16_Box.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\16_Box\obj\Debug\16_Box.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\16_Box\obj\Debug\16_Box.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\16_Box\obj\Debug\16_Box.exe
+C:\Users\user\Desktop\C#_virtual\16_Box\obj\Debug\16_Box.pdb
