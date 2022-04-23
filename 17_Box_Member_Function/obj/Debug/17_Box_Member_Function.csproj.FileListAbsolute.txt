@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\17_Box_Member_Function\bin\Debug\17_Box_Member_Function.exe.config
+C:\Users\user\Desktop\C#_virtual\17_Box_Member_Function\bin\Debug\17_Box_Member_Function.exe
+C:\Users\user\Desktop\C#_virtual\17_Box_Member_Function\bin\Debug\17_Box_Member_Function.pdb
+C:\Users\user\Desktop\C#_virtual\17_Box_Member_Function\obj\Debug\17_Box_Member_Function.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\17_Box_Member_Function\obj\Debug\_17_Box_Member_Function.BoxMemberForm.resources
+C:\Users\user\Desktop\C#_virtual\17_Box_Member_Function\obj\Debug\_17_Box_Member_Function.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\17_Box_Member_Function\obj\Debug\17_Box_Member_Function.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\17_Box_Member_Function\obj\Debug\17_Box_Member_Function.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\17_Box_Member_Function\obj\Debug\17_Box_Member_Function.exe
+C:\Users\user\Desktop\C#_virtual\17_Box_Member_Function\obj\Debug\17_Box_Member_Function.pdb
