@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\18_Line_Circle\bin\Debug\18_Line_Circle.exe.config
+C:\Users\user\Desktop\C#_virtual\18_Line_Circle\bin\Debug\18_Line_Circle.exe
+C:\Users\user\Desktop\C#_virtual\18_Line_Circle\bin\Debug\18_Line_Circle.pdb
+C:\Users\user\Desktop\C#_virtual\18_Line_Circle\obj\Debug\_18_Line_Circle.LineCircleForm.resources
+C:\Users\user\Desktop\C#_virtual\18_Line_Circle\obj\Debug\_18_Line_Circle.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\18_Line_Circle\obj\Debug\18_Line_Circle.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\18_Line_Circle\obj\Debug\18_Line_Circle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\18_Line_Circle\obj\Debug\18_Line_Circle.exe
+C:\Users\user\Desktop\C#_virtual\18_Line_Circle\obj\Debug\18_Line_Circle.pdb
+C:\Users\user\Desktop\C#_virtual\18_Line_Circle\obj\Debug\18_Line_Circle.csprojAssemblyReference.cache
