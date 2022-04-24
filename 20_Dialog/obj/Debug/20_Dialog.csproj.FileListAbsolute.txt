@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#_virtual\20_Dialog\obj\Debug\20_Dialog.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\20_Dialog\obj\Debug\_20_Dialog.DialogForm.resources
+C:\Users\user\Desktop\C#_virtual\20_Dialog\obj\Debug\_20_Dialog.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\20_Dialog\obj\Debug\20_Dialog.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\20_Dialog\obj\Debug\20_Dialog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\20_Dialog\bin\Debug\20_Dialog.exe.config
+C:\Users\user\Desktop\C#_virtual\20_Dialog\bin\Debug\20_Dialog.exe
+C:\Users\user\Desktop\C#_virtual\20_Dialog\bin\Debug\20_Dialog.pdb
+C:\Users\user\Desktop\C#_virtual\20_Dialog\obj\Debug\20_Dialog.exe
+C:\Users\user\Desktop\C#_virtual\20_Dialog\obj\Debug\20_Dialog.pdb
+C:\Users\user\Desktop\C#_virtual\20_Dialog\obj\Debug\_20_Dialog.FigureDialog.resources
