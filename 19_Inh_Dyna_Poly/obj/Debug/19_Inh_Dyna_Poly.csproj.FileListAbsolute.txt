@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_virtual\19_Inh_Dyna_Poly\bin\Debug\19_Inh_Dyna_Poly.exe.config
+C:\Users\user\Desktop\C#_virtual\19_Inh_Dyna_Poly\bin\Debug\19_Inh_Dyna_Poly.exe
+C:\Users\user\Desktop\C#_virtual\19_Inh_Dyna_Poly\bin\Debug\19_Inh_Dyna_Poly.pdb
+C:\Users\user\Desktop\C#_virtual\19_Inh_Dyna_Poly\obj\Debug\19_Inh_Dyna_Poly.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\19_Inh_Dyna_Poly\obj\Debug\_19_Inh_Dyna_Poly.RepairForm.resources
+C:\Users\user\Desktop\C#_virtual\19_Inh_Dyna_Poly\obj\Debug\_19_Inh_Dyna_Poly.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\19_Inh_Dyna_Poly\obj\Debug\19_Inh_Dyna_Poly.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\19_Inh_Dyna_Poly\obj\Debug\19_Inh_Dyna_Poly.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\19_Inh_Dyna_Poly\obj\Debug\19_Inh_Dyna_Poly.exe
+C:\Users\user\Desktop\C#_virtual\19_Inh_Dyna_Poly\obj\Debug\19_Inh_Dyna_Poly.pdb
