@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\bin\Debug\21_MainPopup.exe.config
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\bin\Debug\21_MainPopup.exe
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\bin\Debug\21_MainPopup.pdb
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\obj\Debug\21_MainPopup.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\obj\Debug\_21_MainPopup.PopupForm.resources
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\obj\Debug\_21_MainPopup.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\obj\Debug\21_MainPopup.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\obj\Debug\21_MainPopup.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\obj\Debug\21_MainPopup.exe
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\obj\Debug\21_MainPopup.pdb
+C:\Users\user\Desktop\C#_virtual\21_MainPopup\obj\Debug\_21_MainPopup.FigureDialog.resources
