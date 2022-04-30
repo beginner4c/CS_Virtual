@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#_virtual\22_Popups\obj\Debug\22_Popups.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\22_Popups\obj\Debug\_22_Popups.FigureDialog.resources
+C:\Users\user\Desktop\C#_virtual\22_Popups\obj\Debug\_22_Popups.PopupsForm.resources
+C:\Users\user\Desktop\C#_virtual\22_Popups\obj\Debug\_22_Popups.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\22_Popups\obj\Debug\22_Popups.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\22_Popups\obj\Debug\22_Popups.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\22_Popups\bin\Debug\22_Popups.exe.config
+C:\Users\user\Desktop\C#_virtual\22_Popups\bin\Debug\22_Popups.exe
+C:\Users\user\Desktop\C#_virtual\22_Popups\bin\Debug\22_Popups.pdb
+C:\Users\user\Desktop\C#_virtual\22_Popups\obj\Debug\22_Popups.exe
+C:\Users\user\Desktop\C#_virtual\22_Popups\obj\Debug\22_Popups.pdb
