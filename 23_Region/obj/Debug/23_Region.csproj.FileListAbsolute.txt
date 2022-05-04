@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#_virtual\23_Region\obj\Debug\23_Region.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\23_Region\obj\Debug\_23_Region.FigureDialog.resources
+C:\Users\user\Desktop\C#_virtual\23_Region\obj\Debug\_23_Region.RegionForm.resources
+C:\Users\user\Desktop\C#_virtual\23_Region\obj\Debug\_23_Region.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\23_Region\obj\Debug\23_Region.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\23_Region\obj\Debug\23_Region.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\23_Region\bin\Debug\23_Region.exe.config
+C:\Users\user\Desktop\C#_virtual\23_Region\bin\Debug\23_Region.exe
+C:\Users\user\Desktop\C#_virtual\23_Region\bin\Debug\23_Region.pdb
+C:\Users\user\Desktop\C#_virtual\23_Region\obj\Debug\23_Region.exe
+C:\Users\user\Desktop\C#_virtual\23_Region\obj\Debug\23_Region.pdb

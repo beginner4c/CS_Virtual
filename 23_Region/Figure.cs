@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _23_Region
+{
+    public abstract class Figure // 메인 폼에서 함수의 parameter로 활용하기 위해 public 선언
+    {
+        protected Region _region; // 이걸 상속받는 TwoPointFigure가 사용할 수 있게 visibility 설정
+
+        public Figure()
+        {
+
+        }
+        public abstract void draw(Graphics g, Pen pen);
+
+        public abstract void setXY2(int x, int y);
+
+        public abstract void makeRegion();
+
+        public bool ptInRegion(int x, int y)
+        {
+            if (_region != null)
+            {
+                return _region.IsVisible(x, y);
+            }
+            else
+            {
+                return false;
+            }
+        }
+    }
+}
