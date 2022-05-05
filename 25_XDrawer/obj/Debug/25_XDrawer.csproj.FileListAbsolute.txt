@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\obj\Debug\25_XDrawer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\obj\Debug\_24_XDrawer.FigureDialog.resources
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\obj\Debug\_24_XDrawer.XDrawer.resources
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\obj\Debug\25_XDrawer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\obj\Debug\25_XDrawer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\bin\Debug\25_XDrawer.exe.config
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\bin\Debug\25_XDrawer.exe
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\bin\Debug\25_XDrawer.pdb
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\obj\Debug\_25_XDrawer.Properties.Resources.resources
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\obj\Debug\25_XDrawer.exe
+C:\Users\user\Desktop\C#_virtual\25_XDrawer\obj\Debug\25_XDrawer.pdb
